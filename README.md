@@ -156,21 +156,13 @@ print s
 
 # 画像
 ```
-Inline-style: 
 ![alt text](https://github.com/kuro0909/markdown-cheatsheet/raw/main/images/test-img.png "Logo Title Text 1")
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/kuro0909/markdown-cheatsheet/raw/main/images/test-img.png "Logo Title Text 2"
+<img src="https://github.com/kuro0909/markdown-cheatsheet/raw/main/images/test-img.png" alt="test-img" title="test-img" width="50" height="50">
 ```
-Inline-style: 
 ![alt text](https://github.com/kuro0909/markdown-cheatsheet/raw/main/images/test-img.png "Logo Title Text 1")
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/kuro0909/markdown-cheatsheet/raw/main/images/test-img.png "Logo Title Text 2"
+<img src="https://github.com/kuro0909/markdown-cheatsheet/raw/main/images/test-img.png" alt="test-img" title="test-img" width="50" height="50">
 
 参考: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines  
 参考: https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa
