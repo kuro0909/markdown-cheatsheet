@@ -170,7 +170,7 @@ Inline-style:
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/kuro0909/markdown-cheatsheet/raw/master/images/test-img.png "Logo Title Text 2"
+[logo]: https://github.com/kuro0909/markdown-cheatsheet/raw/main/images/test-img.png "Logo Title Text 2"
 
 参考: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines  
 参考: https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa
